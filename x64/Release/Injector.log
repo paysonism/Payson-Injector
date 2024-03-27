@@ -1,0 +1,9 @@
+﻿  Inject.cpp
+  main.cpp
+  Generating code
+C:\Users\deez\Documents\Saturn Injector\Injector\utils\utils.h(71): warning C4715: 'utils::find_pattern': not all control paths return a value
+  24 of 160 functions (15.0%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Injector.vcxproj -> C:\Users\deez\Documents\Saturn Injector\Injector\x64\Release\payson1337.exe

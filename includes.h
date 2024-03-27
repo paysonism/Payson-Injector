@@ -1,0 +1,11 @@
+#pragma once
+#include <cstdint>
+#include <Windows.h>
+#include <tlhelp32.h>
+#include <iostream>
+#include <psapi.h>
+#include "utils/lazy_importer.h"
+#include "utils/utils.h"
+#include "utils/xor.h"
+#include "Driver/Driver.h"
+#include "Inject/inject.h"
